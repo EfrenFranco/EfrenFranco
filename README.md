@@ -4,7 +4,7 @@ I'm a passionate full-stack developer living in Kyoto.
 
 - 🔭 I’m currently working on **improving my skills in Ruby and JavaScript**
 - 🌱 I’m currently reading **"You don't know JS yet" by Kyle Simpson**
-- 📱 Next goals include learning **Python and Kotlin**
+- 📱 Next goals include learning **Vue and Python**
 
 <p align="left">
 </p>
