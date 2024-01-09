@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack developer living in Kyoto.
 
-- 🔭 I’m currently working on **improving my skills in Ruby and JavaScript**
+- 🔭 I’m currently working on **improving my skills in Ruby, JavaScript, and WordPress**
 - 🌱 I’m currently reading **"You don't know JS yet" by Kyle Simpson**
 - 📱 Next goals include learning **Vue**
 - If you have a chance, take a look at my team's projects <a href="https://bandshake-7def081255a7.herokuapp.com/">Bandshake</a> and <a href="https://kanwa-app-078f3a6346ae.herokuapp.com/">Kanwa</a>. 
